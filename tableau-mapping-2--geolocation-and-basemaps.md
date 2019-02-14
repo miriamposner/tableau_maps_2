@@ -1,4 +1,4 @@
-# Tableau Mapping 2: Geolocation and basemaps
+# Tableau Mapping 2: Geocoding, layers, and basemaps
 
 We've learned to make a map in Tableau, and we've learned how to filter and sort points. Tableau can actually do quite a bit more than that, though.
 
